@@ -3,7 +3,7 @@
     "name": "vistuleB/elm-plot",
     "summary": "Update of terezka/elm-plot to 0.19.1.",
     "license": "BSD-3-Clause",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Plot"
     ],
